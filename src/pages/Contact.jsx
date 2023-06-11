@@ -4,7 +4,7 @@ const Contact = () => {
     return (
         <>
             <section className='header'>
-                This is Contact page
+                This sdfaasdlkf klasdj fa
             </section>
         </>
     )
