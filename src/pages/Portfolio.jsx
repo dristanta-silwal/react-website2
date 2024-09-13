@@ -32,7 +32,7 @@ const Portfolio = () => {
             </section>
 
             <section className="projects">
-                <h2>Projects</h2>
+                <h2>My Projects</h2>
                 <div className="project-cards">
                     {projects.map((project, index) => (
                         <div key={index} className="card">
